@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581858662488" stop="1581858662989">
+  <name>test_user_list</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581858662488" status="passed" stop="1581858662602">
+      <name>TestUserList.test_user_list_0</name>
+      <attachments>
+        <attachment source="97d9f5c6-dc63-42ec-922f-20b532c07aef-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="563411df-1d0b-4fbb-9ad3-cc5cf0f7d408-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5748-MainThread"/>
+        <label name="host" value="ZYJPC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581858662620" status="passed" stop="1581858662740">
+      <name>TestUserList.test_user_list_1</name>
+      <attachments>
+        <attachment source="7b0dd490-5613-4357-a4e4-d4e7b7a274c5-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5748-MainThread"/>
+        <label name="host" value="ZYJPC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581858662761" status="passed" stop="1581858662869">
+      <name>TestUserList.test_user_list_2</name>
+      <attachments>
+        <attachment source="c8f65544-df39-400a-ae9b-ddcc1cecadc5-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5748-MainThread"/>
+        <label name="host" value="ZYJPC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581858662886" status="passed" stop="1581858662989">
+      <name>TestUserList.test_user_list_3</name>
+      <attachments>
+        <attachment source="6d374cb4-4126-4ffb-aa55-67d9f908eb9d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5748-MainThread"/>
+        <label name="host" value="ZYJPC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

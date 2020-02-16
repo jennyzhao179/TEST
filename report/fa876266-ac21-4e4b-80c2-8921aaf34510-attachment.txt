@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_login.py:14 token值为Bearer b9c38059-96eb-4475-acb2-06b4e65b0503
+[32mINFO    [0m root:api_login.py:16 headers_data的值为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+[32mINFO    [0m root:test_login.py:18 登录测试方法开始断言

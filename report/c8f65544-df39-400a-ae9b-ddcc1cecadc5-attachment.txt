@@ -1,0 +1,2 @@
+[32mINFO    [0m root:api_user_list.py:16 获取列表的url为http://182.92.81.159/api/sys/user?page=0&size=0, 信息头为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+[32mINFO    [0m root:test_user_list.py:20 获取用户列表开始断言

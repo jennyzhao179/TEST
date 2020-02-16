@@ -1,0 +1,25 @@
+
+2020-02-16 21:04:28,755 INFO [api_login.py(api_login:14)] - token值为Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6
+2020-02-16 21:04:28,755 INFO [api_login.py(api_login:16)] - headers_data的值为{'Authorization': 'Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6'}
+2020-02-16 21:04:28,755 INFO [test_login.py(test_login:18)] - 登录测试方法开始断言
+2020-02-16 21:04:28,783 INFO [api_user_list.py(__init__:11)] - 初始化USERLISTurl为http://182.92.81.159/api/sys/user?page={}&size={}
+2020-02-16 21:04:28,784 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=1&size=10, 信息头为{'Authorization': 'Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6'}
+2020-02-16 21:04:28,888 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:04:28,919 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=5&size=5, 信息头为{'Authorization': 'Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6'}
+2020-02-16 21:04:29,015 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:04:29,042 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=0&size=0, 信息头为{'Authorization': 'Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6'}
+2020-02-16 21:04:29,137 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:04:29,171 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=None&size=None, 信息头为{'Authorization': 'Bearer 0a9b983a-5b9f-49a4-b21a-8f3cc42541c6'}
+2020-02-16 21:04:29,265 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:11:02,455 INFO [api_login.py(api_login:14)] - token值为Bearer b9c38059-96eb-4475-acb2-06b4e65b0503
+2020-02-16 21:11:02,456 INFO [api_login.py(api_login:16)] - headers_data的值为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+2020-02-16 21:11:02,456 INFO [test_login.py(test_login:18)] - 登录测试方法开始断言
+2020-02-16 21:11:02,494 INFO [api_user_list.py(__init__:11)] - 初始化USERLISTurl为http://182.92.81.159/api/sys/user?page={}&size={}
+2020-02-16 21:11:02,495 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=1&size=10, 信息头为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+2020-02-16 21:11:02,596 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:11:02,627 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=5&size=5, 信息头为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+2020-02-16 21:11:02,735 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:11:02,767 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=0&size=0, 信息头为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+2020-02-16 21:11:02,863 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
+2020-02-16 21:11:02,892 INFO [api_user_list.py(api_user_list:16)] - 获取列表的url为http://182.92.81.159/api/sys/user?page=None&size=None, 信息头为{'Authorization': 'Bearer b9c38059-96eb-4475-acb2-06b4e65b0503'}
+2020-02-16 21:11:02,985 INFO [test_user_list.py(test_user_list:20)] - 获取用户列表开始断言
